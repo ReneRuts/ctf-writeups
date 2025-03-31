@@ -1,0 +1,2 @@
+Mr White is known to hide his secrets, 
+if only there was a way to inspect the metadata of this image.
