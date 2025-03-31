@@ -1,0 +1,23 @@
+# Zero one zero one zero one
+
+## Description
+use python ;)
+
+0b1001000-0b1000011-0b1010100-0b1000110-0b101101-0b1000110-0b1001100-0b1000001-0b1000111-0b101101-0b1101011-0b1100001-0b1101101-0b1100101-0b1101110-0b1010010-0b1101001-0b1100100-0b1100101-0b1110010-0b110000-0b110001
+
+## Files Provided
+None
+
+## Writeups
+Noticed it were all binary numbers with a random "b" inside of it.
+
+Removing the "b"'s gives you:
+
+01001000 01000011 01010100 01000110 0101101 01000110 01001100 01000001 01000111 0101101 01101011 01100001 01101101 01100101 01101110 01010010 01101001 01100100 01100101 01110010 0110000 0110001
+
+Went to a binary to ascii [converter](https://www.rapidtables.com/convert/number/binary-to-ascii.html)
+
+## Flag
+```
+HCTF-FLAG-kamenRider01
+```
