@@ -4,12 +4,12 @@
 None
 
 ## Files Provided
-"calculate_me_fast"
+"calculate_me_fast" [file](./Calculate_me_fast/calculate_me_fast)
 
 ## Writeups
 .elf file where you need to do calculations at a fast pace.
 
-made chatGPT & Copilot write a script to do these calculations
+[I](https://chatgpt.com) made a script to do these calculations
 
 ```python
 import pexpect

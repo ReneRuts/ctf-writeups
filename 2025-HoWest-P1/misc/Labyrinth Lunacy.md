@@ -4,7 +4,8 @@
 I used to do these on the back of cereal boxes!
 
 ## Files Provided
-"unsolved_maze.png" 
+"unsolved_maze.png" [file](./Labyrinth%20Lunacy/unsolved_maze.png)
+
 ![maze](./Labyrinth%20Lunacy/unsolved_maze.png)
 
 ## Writeups

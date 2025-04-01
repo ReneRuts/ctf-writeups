@@ -4,7 +4,7 @@
 None
 
 ## Files Provided
-"not_what_it_seems.exe"
+"not_what_it_seems.exe" [file](./Not%20what%20it%20seems/not_what_it_seems.exe)
 
 ## Writeups
 When running the file on windows there's an error that says 'not for this windows version.'

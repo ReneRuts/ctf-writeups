@@ -6,7 +6,7 @@ Ahh quite the nostalgia trip.
 You'll have to manually add -'s in the flag.
 
 ## Files Provided
-"KnownUnknowns.png"
+"KnownUnknowns.png" [file](./Known%20unknowns/KnownUnknowns.png)
 
 ## Writeups
 Gevonden dat het iets met pokemons te doen had, een cipher opgezocht en deze gevonden:

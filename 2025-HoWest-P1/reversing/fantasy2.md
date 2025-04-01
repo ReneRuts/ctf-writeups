@@ -4,7 +4,7 @@
 When fantasy should become reality.
 
 ## Files Provided
-"fantasy2"
+"fantasy2" [file](./Fantasy%202/fantasy2)
 
 ## Writeups
 when trying the same as I tried at [What if fantasy becomes reality](./What%20if%20fantasy%20becomes%20reality.md) it doesn't give a flag.

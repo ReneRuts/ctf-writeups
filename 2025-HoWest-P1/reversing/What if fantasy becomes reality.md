@@ -4,7 +4,7 @@
 None
 
 ## Files Provided
-"fantasy"
+"fantasy" [file](./What%20if%20fantasy%20becomes%20reality/fantasy)
 
 ## Writeups
 Running `file fantasy` on the file gives that it's a .elf file.

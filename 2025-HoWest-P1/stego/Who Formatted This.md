@@ -4,7 +4,7 @@
 No seriously who formatted this, I mean it works but why is it so ugly????
 
 ## Files Provided
-"c_mc_face.c"
+"c_mc_face.c" [file](./who%20Formatted%20This/c_mc_face.c)
 
 ## Writeups
 First thought we had to do something with the code inside the file, teacher gave us a hint which was. "U don't have to use the code, you didn't see 'C' yet. Sadly enough :("

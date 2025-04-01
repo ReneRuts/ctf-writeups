@@ -12,10 +12,10 @@ The length of the content inside {} is between 15 and 25 characters
 Can you help me find it?
 
 ## Files Provided
-"mess.txt"
+"mess.txt" [file](./Ragex/mess.txt)
 
 ## Writeups
-The contents of the [file](./Ragex/mess.txt) contains a lot of flags.
+The contents of the file contains a lot of flags.
 
 The flag starts with HCTF-FLAG- and is followed by a value encapsulated within curly braces { }
 - added `HCTF-FLAG\{\}` to the regex. (Backslashes are to ensure the litteral braces)

@@ -4,7 +4,7 @@
 None
 
 ## Files Provided
-"in_plain_sight"
+"in_plain_sight" [file](./In%20plain%20sight/in_plain_sight)
 
 ## Writeups
 when running `file in_plain_sight` on the file it shows its a `.elf` file.

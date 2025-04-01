@@ -4,7 +4,7 @@
 My brain can't handle this!
 
 ## Files Provided
-"weird"
+"weird" [file](./####%20This!/Weird)
 
 ## Writeups
 Opened the file using notepad

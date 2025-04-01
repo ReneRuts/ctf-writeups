@@ -4,7 +4,7 @@
 I've been reading xkcd commics all week, this one might be my favorite!
 
 ## Files Provided
-"xkcd"
+"xkcd" [file](./I%20Have%20No%20Mouth,%20and%20I%20Must%20Scream/xkcd)
 
 ## Writeups
 Opened the xkcd file using notepad.
