@@ -21,5 +21,5 @@ We created a video which we uplaoded and showed to the teachers who gave us the 
 
 ## Flag
 ```
-HCTF-FLAG-
+HCTF-FLAG-I_HATE_MARKETING
 ```
